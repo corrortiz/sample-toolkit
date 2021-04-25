@@ -27,6 +27,11 @@ code {
   margin-bottom: 1rem;
 }
 
+p {
+  color: rgb(231, 0, 69);
+  cursor: pointer;
+}
+
 #submitButton{
   background-color: rgb(149, 98, 197);
   color: #fafafa;
